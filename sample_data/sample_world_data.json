@@ -1,0 +1,34 @@
+{
+	"Continent": {
+		"Asia": {
+			"Country": {
+				"India": {
+					"Population": 1380004385
+				},
+				"Bangladesh": {
+					"Population": 164689383
+				}
+			}
+		},
+		"Africa": {
+			"Country": {
+				"Nigeria": {
+					"Population": 206139589
+				},
+				"Egypt": {
+					"Population": 102334404
+				}
+			}
+		},
+		"Europe": {
+			"Country": {
+				"Russia": {
+					"Population": 145934462
+				},
+				"Germany": {
+					"Population": 83783942
+				}
+			}
+		}
+	}
+}
