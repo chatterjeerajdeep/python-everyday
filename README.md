@@ -9,3 +9,5 @@ Day 3: reduce_in_python: How we can use the reduce() method in python to access 
 Day 4: decorators: Simple use of decorators in python and how it can be helpful?
 
 Day 5: dictionary_tricks: 3 simple tricks in the way of using python dictionaries that can be really useful.
+
+Day 6: getting_started_with_beautiful_soup: Simple web scraping using requests and beautifulsoup
